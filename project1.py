@@ -2,7 +2,6 @@
 Name- Abhijeet singh parmar
 Enrollment- 0157CY221006
 Problem statement- Project1
-Date- 7/10/24
 '''
 import random
 reg_uname=[]
