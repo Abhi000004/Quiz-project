@@ -1,3 +1,8 @@
+'''
+Name- Abhijeet singh parmar
+Enrollment- 0157CY221006
+Quiz Project2(File Handling)
+'''
 import time
 import mysql.connector as my
 con=my.connect(host="localhost",user="root",passwd="Abhijeet@12",database="pro")
