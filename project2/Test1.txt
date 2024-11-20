@@ -1,0 +1,6 @@
+Username=Test1
+Password=Abhijeet@12
+PYTHON Your score was 3/5 at  2024-10-17 21:01:39
+CPP Your score was 3/5 at 2024-10-17 21:01:44
+JAVA Your score was 4/5 at  2024-10-17 21:01:50
+PYTHON Your score was 4/5 at  2024-10-17 21:01:55
